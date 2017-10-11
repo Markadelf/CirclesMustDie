@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquaresVersusCircles", "SquaresVersusCircles.csproj", "{015208B5-2DF9-4438-83AF-F8F22AF40B91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{015208B5-2DF9-4438-83AF-F8F22AF40B91}.Debug|x86.ActiveCfg = Debug|x86
+		{015208B5-2DF9-4438-83AF-F8F22AF40B91}.Debug|x86.Build.0 = Debug|x86
+		{015208B5-2DF9-4438-83AF-F8F22AF40B91}.Release|x86.ActiveCfg = Release|x86
+		{015208B5-2DF9-4438-83AF-F8F22AF40B91}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

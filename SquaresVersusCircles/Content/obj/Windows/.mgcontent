@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Markadelf/Source/Repos/CirclesMustDie/SquaresVersusCircles/Content/Square.png</File>
+    <File>C:/Users/Markadelf/Source/Repos/CirclesMustDie/SquaresVersusCircles/Content/Circle.png</File>
+    <File>C:/Users/Markadelf/Source/Repos/CirclesMustDie/SquaresVersusCircles/Content/font.spritefont</File>
+    <File>C:/Users/Markadelf/Source/Repos/CirclesMustDie/SquaresVersusCircles/Content/MenuImage.png</File>
+    <File>C:/Users/Markadelf/Source/Repos/CirclesMustDie/SquaresVersusCircles/Content/Wood.png</File>
+    <File>C:/Users/Markadelf/Source/Repos/CirclesMustDie/SquaresVersusCircles/Content/small</File>
+  </SourceFiles>
+</SourceFileCollection>
